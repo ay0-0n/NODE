@@ -1,0 +1,27 @@
+.ka-table{
+    width: 90%;
+    color: black;
+    margin: 0 auto;
+}
+
+.ka-thead{
+    font-family: 'Space Mono', monospace;
+    border-bottom: 1px solid #e2e8f0;
+}
+
+.ka-tbody{
+    font-family: 'Space Mono', monospace;
+    border-bottom: 1px solid #e2e8f0;
+    font-size: 1rem;
+}
+.ka-cell{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid #e2e8f0;
+}
+@media screen and (max-width: 768px){
+    .ka-table{
+        width: 100%;
+    }
+    
+}

@@ -1,0 +1,12 @@
+nav a.active {
+    border-bottom: 1px; 
+    border-color: black;  
+    border-style: solid;
+}
+
+@media screen and (max-width: 1023px) and (min-width: 768px){
+    nav a {
+        margin: 5px !important;
+        font-size: 0.8 rem !important;
+    } 
+}
