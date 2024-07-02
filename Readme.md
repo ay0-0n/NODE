@@ -14,6 +14,10 @@ Welcome to Node! This is a blog website where people can post blogs, read other 
 **Featured Blogs**: Shows 10 most featured blogs in a tabular form
 **Wishlist**: Shows all the blogs added to the wishlist. Option to remove from wishlist.
 
+## Whats Behind
+**Tools**: *ReactJs*, *tailwindCSS*, *FlowbiteReact*, *NodeJs*, *ExpressJs*, *MongoDB*,  
+**Pacages** *react-router-dom*, *framer-motion*, *axios*, *aos*, *ka-table*, *lottie-react*, *react-helmet-async*, *react-simple-typewriter* and more
+
 ## Installation and Setup
 
 1. **Clone the Repository**:
