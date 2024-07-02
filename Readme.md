@@ -16,7 +16,7 @@ Welcome to Node! This is a blog website where people can post blogs, read other 
 
 ## Whats Behind
 **Tools**: *ReactJs*, *tailwindCSS*, *FlowbiteReact*, *NodeJs*, *ExpressJs*, *MongoDB*,  
-**Pacages** *react-router-dom*, *framer-motion*, *axios*, *aos*, *ka-table*, *lottie-react*, *react-helmet-async*, *react-simple-typewriter* and more
+**Pacages**: *react-router-dom*, *framer-motion*, *axios*, *aos*, *ka-table*, *lottie-react*, *react-helmet-async*, *react-simple-typewriter* and more
 
 ## Installation and Setup
 
